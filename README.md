@@ -11,7 +11,7 @@ Dataset yang digunakan berasal dari https://www.kaggle.com/c/si650winter11/data
 ## Hasil
 Model SVM yang di latih menunjukkan performa yang sangat tinggi dengan akurasi 99% pada data uji. Nilai precision, recall, dan F1-score untuk masing-masing kelas mencapai 0.99, yang menunjukkan bahwa model mampu mengklasifikasikan sentimen dengan sangat baik.
 
-## Result
+
              precision    recall  f1-score   support
 
           0       0.99      0.99      0.99       557
